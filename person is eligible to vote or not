@@ -1,0 +1,10 @@
+#include<stdio.h>
+int main() {
+int age=20;
+if(age>=18){
+printf("Youre eligible to vote");
+}
+else{
+printf("Youre not eligible to vote");
+}
+}
